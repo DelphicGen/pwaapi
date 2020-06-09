@@ -1,0 +1,24 @@
+{
+"products" : [
+{"id":1,"name":"Tortoise, burmese black mountain","category":"Red"},
+{"id":2,"name":"Skunk, striped","category":"Green"},
+{"id":3,"name":"Roan antelope","category":"Crimson"},
+{"id":4,"name":"Porcupine, african","category":"Crimson"},
+{"id":5,"name":"Kingfisher, white-throated","category":"Orange"},
+{"id":6,"name":"Western patch-nosed snake","category":"Mauv"},
+{"id":7,"name":"Western patch-nosed snake","category":"Orange"},
+{"id":8,"name":"Gray duiker","category":"Violet"},
+{"id":9,"name":"Flightless cormorant","category":"Indigo"},
+{"id":10,"name":"Lizard, blue-tongued","category":"Maroon"},
+{"id":11,"name":"Sloth, two-toed tree","category":"Indigo"},
+{"id":12,"name":"Pale-throated three-toed sloth","category":"Turquoise"},
+{"id":13,"name":"Stork, white","category":"Pink"},
+{"id":14,"name":"Western grey kangaroo","category":"Orange"},
+{"id":15,"name":"Egret, great","category":"Indigo"},
+{"id":16,"name":"Eastern dwarf mongoose","category":"Mauv"},
+{"id":17,"name":"Burmese black mountain tortoise","category":"Green"},
+{"id":18,"name":"Vulture, oriental white-backed","category":"Khaki"},
+{"id":19,"name":"Red-knobbed coot","category":"Khaki"},
+{"id":20,"name":"Parakeet, rose-ringed","category":"Crimson"}
+]
+}
